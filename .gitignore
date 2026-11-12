@@ -1,0 +1,30 @@
+# ---- 操作系统 ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- 依赖 / 构建产物 ----
+node_modules/
+dist/
+build/
+out/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# ---- 日志 / 临时文件 ----
+*.log
+*.tmp
+.temp/
+.tools/
